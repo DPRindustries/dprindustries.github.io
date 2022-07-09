@@ -1,4 +1,4 @@
-# dprindustries.public.github.io
+# dprindustries.github.io
 Public Website of DPRindustries
 
 test
