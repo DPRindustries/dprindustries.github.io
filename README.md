@@ -1,4 +1,2 @@
-# dprindustries.github.io
-Public Website of DPRindustries
-
-test
+# DPRindustries
+Public BETA Website of DPRindustries
